@@ -1,0 +1,24 @@
+.container {
+  width: 1918px;
+  height: 935px;
+  display: flex;
+}
+
+.menu {
+  width: 150px;
+  background-color: #191718;
+}
+
+.menu-item:hover {
+  color: #fff;
+  background-color: #aaa;
+}
+
+.menu-item {
+  color: #aaa;
+}
+
+.content {
+  width: 1768px;
+  background-color: #fff;
+}
